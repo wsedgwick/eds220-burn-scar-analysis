@@ -1,0 +1,7 @@
+pandas==1.4.3
+numpy==1.23.2
+matplotlib==3.1.1
+datetime==unknown
+ee==0.1.325
+geemap==0.17.1
+watermark==2.3.1
