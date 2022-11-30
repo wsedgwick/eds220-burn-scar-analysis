@@ -11,3 +11,5 @@ Contents:
 - SentinelNBR.ipynb
 - README.md
 - Environment.yml
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wsedgwick/eds220-burn-scar-analysis/HEAD)
