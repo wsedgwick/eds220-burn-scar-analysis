@@ -12,4 +12,5 @@ Contents:
 - README.md
 - Environment.yml
 
+You can follow along with this Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wsedgwick/eds220-burn-scar-analysis/HEAD)
